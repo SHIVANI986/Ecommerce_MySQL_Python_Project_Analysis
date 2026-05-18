@@ -1,6 +1,6 @@
 # **Ecommerce_SQL+Python_Analysis_Project**
 
-## 🚀 **Project Overview**
+## **Project Overview**
 
 This project showcases a complete data analysis pipeline, utilizing SQL for data extraction and Python for data visualization and insights generation. The dataset comes from a large-scale Ecommerce platform, and the goal was to derive key business insights through structured queries and visual analysis.
 
@@ -8,7 +8,7 @@ By blending the power of **SQL Workbench** for database management and **Python 
 
 ---
 
-## 📂 **Project Structure**
+## **Project Structure**
 
 ### **1. Dataset**
 - **Source**: A comprehensive Ecommerce dataset, including customer orders, product details, and payment information.
@@ -42,7 +42,7 @@ By blending the power of **SQL Workbench** for database management and **Python 
 
 ---
 
-## 💡 **Key Insights and Analysis**
+##  **Key Insights and Analysis**
 
 ### **Basic Queries**:
 - Identified cities with the most active customers.
@@ -61,7 +61,7 @@ By blending the power of **SQL Workbench** for database management and **Python 
 
 ---
 
-## 📊 **Visual Insights**
+## **Visual Insights**
 
 - Sales trends and monthly order patterns.
 - Product category performance breakdown.
@@ -70,7 +70,7 @@ By blending the power of **SQL Workbench** for database management and **Python 
 
 ---
 
-## 🎯 **What You Can Learn**
+## **What You Can Learn**
 
 - How to integrate **SQL** with **Python** for large-scale data analysis.
 - Techniques for querying and extracting data from a MySQL database.
@@ -79,7 +79,7 @@ By blending the power of **SQL Workbench** for database management and **Python 
 
 ---
 
-## 📎 **Next Future Steps**
+## **Next Future Steps**
 
 - Adding machine learning models to predict customer lifetime value (CLV) and churn.
 - Implementing real-time data pipelines for more dynamic analysis.
